@@ -12,10 +12,10 @@ nav a:link {
   color: #78a9d1
 }
 nav a:hover{
-  color: #b9d7ee
+  color: #e6eeb9
 }
 nav a:visited{
-  color: #9ab6cc
+  color: #a46e9a
 }
 main {
   padding: 25px;
@@ -33,5 +33,5 @@ footer a:link {
   color: #78a9d1
 }
 footer a:visited {
-  color: #9ab6cc
+  color: #a46e9a
 }
