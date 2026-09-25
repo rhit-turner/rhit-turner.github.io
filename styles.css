@@ -9,13 +9,13 @@ header {
   padding: 10px;
 }
 nav a:link {
-  color: #78a9d1
+  color: #78a9d1;
 }
 nav a:visited{
-  color: #844660
+  color: #c58ac1;
 }
 nav a:hover{
-  color: #e6eeb9
+  color: #e6eeb9;
 }
 main {
   padding: 25px;
@@ -30,11 +30,11 @@ footer {
   padding: 15px;
 }
 footer a:link {
-  color: #78a9d1
+  color: #78a9d1;
 }
 footer a:visited {
-  color: #844660
+  color: #c58ac1;
 }
 footer a:hover{
-  color: #e6eeb9
+  color: #e6eeb9;
 }
